@@ -11,4 +11,4 @@ I am man from Denmark, currently located in Aalborg, where I study Software Engi
 
 In spend my leisure time on writing short stories, working on a novel, small software projects and of course since I am danish drinking with friends.
 
-In my work area and in my studies, I like to focus on semi low level development and programming languages bindings for software libraries.
+In my work and in my studies, I like to focus on semi low level development and programming languages bindings for software libraries.
