@@ -10,4 +10,4 @@ __Name:__ Lars Nielsen <br />
 Hello and welcome to my website, blog and online portfolio. <br />
 I am danish student and software developer, located in Aalborg. Where I study software engineering and work as a student software developer at Steinwurf.
 
-I am interested in software development, *NIX Systems, writing, art, ancient lore, politics and the philosphy of different relegion.
+I am interested in software development, *NIX Systems, writing, art, ancient lore, politics and the philosophy of different religion.
