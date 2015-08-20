@@ -15,9 +15,9 @@ Most first year students whom attend the university and belongs to the faculty o
 However even though the ruslinger (newbies) do attend the bar or social events, they tend to band together based on field of study. So not many meet across field of study. However the buildings and general environment are wonderful and pretty spacey. So for a project based educational institution such as AAU, that is really great, since there are group rooms, which are assigned to an individual group. So the environment is very good doing the first year. BUT! it becomes even more awesome after the second year, when we move to or department.
 
 #### The Second year and be on
-As a software engineering or computer science student, the first new thing that happens doing your second year of study. Is moving from Basis in Aalborg C, to Cassiopeia / Department of Computer Science in Aalborg E. This a completely new experience, we are now at the actual campus, at the eastern frontier, the last bastion before the country site.
+As a software engineering or computer science student, the first new thing that happens doing your second year of study. Is moving from Basis in Aalborg C, to Cassiopeia / Department of Computer Science in Aalborg E. This is a completely new experience, we are now at the actual campus, at the eastern frontier, the last bastion before the country site.
 
-The build are not new, but they are comfortable and couchy, we have table tennis tables, football tables, game consoles and stuff like that. We have our own club which server Friday french bread, every Wednesday and in general there is a really relaxed and nerdy environment, which should sooth every nerd.
+The buildings are not new, but they are comfortable and couchy, we have table tennis tables, football tables, game consoles and stuff like that. We have our own club which server Friday french bread, every Wednesday and in general there is a really relaxed and nerdy environment, which should sooth every nerd.
 
 So the conclusion is, that the environment, you as a student are surrounded by is pretty damn good.
 
