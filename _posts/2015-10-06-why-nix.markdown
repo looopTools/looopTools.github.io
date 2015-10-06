@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "Why I use NIX and not Windows"
+date:   2015-10-06 21:15:00
+categories: nix
+---
+
+I have for years had the discussion with Windows users _Why do you use Mac?_ and for years the primarily arguments I have heard from Windows users, is you cannot game on Mac and you do not have the same amount of applications available on Mac OS or OS X. This blog post will be about why, I not just us OS X, but *NIX. Just for those, whom do not know what I mean by *NIX. *NIX means UNIX or UNIX like systems, such as BSD, Linux, Minix and so on.
+
+So why do I use these systems instead of windows? Well since I started developing software, I have constantly turned away from Windows and over to the *NIX universe. This is due to a couple of factors, which are:
+
+-  A proper terminal
+-  Firewall settings
+-  Security
+-  Emacs repositories
+-  clang
+-  File system structure
+
+## A proper terminal
+Commando Prompt and Power shell, has for many years not been as powerful as Bash or ZSH Terminal on the *NIX platforms, in my opinion. So as I prefer CLI over GUI, for user administration, firewall setup, SSH connection, file system navigation and so on. It becomes very important for me to have a proper CLI solution, which in my opinion neither Commando Prompt and Power shell is not.
+
+## Firewall settings and Security
+These two are of course combinations, but it is also in extension of the above. I find it easier to setup security and firewall settings in CLI and using files. So I can search easier, that the admin panels provided in Microsoft Windows.
+
+## Emacs Repositories
+Now this might be my own fault, but I have never been able to use an Emacs repository on Windows, for some reason. Yet on all *NIX platforms they just works and as Emacs is my favourite editor, not just for programming, this is really important to me.
+
+## Clang
+Clang ohh clang, ooh clang my love. As Emacs, this might be my own fault, but for some reason Clang never works properly for me on Microsoft Windows, though I have seen people use it on Windows. I simply cannot set it up, so it work in combination with Emacs. I have to leave Emacs to compile from Commando Prompt or Power shell, while on *NIX I can setup clang to be used through Emacs, which I like a lot.
+
+## File System Structure
+Very simple I like the File System Structure on *NIX better. Though they are not 100% a like, between Linux, Minix and BSD based *NIX systems. It is close enough, for me to navigate and guess where stuff is placed. Also the structure makes sense to me, which I do not think the Microsoft Windows file system does. Here I do not talk of the placement of Documents, Downloads and Picture folder. But system files and stuff like that. Now this is just a preference, but it is still very important to me.
+
+Now from my development perspective, the above is why I use *NIX, now comes the more stupid reasons. The preference points, here we are talking about:
+
+-  Desktop Environment
+-  Ease of use / System Structure
+-  Installation of Applications
+
+## Desktop Environment
+Okay this is a preference, but absolutely despises the Microsoft Windows 8 User Interface and I can live with Windows 7 and 10. However people say you can just modify it to your preferences. True I could do that, but I have tried and I can actually not get a work flow, which I liked. However OS X grants me an UI I can use fast, efficient and finds logical, and on Linux I can pretty much modify it such that it looks like OS X and have close to the same work flow. This is why I prefer *NIX on this point.
+
+## Ease of use / System Structure
+Okay Microsoft Windows has 7 billion places to find settings and change stuff. OS X not so much, you have the Systems Settings menu done, or use the command line, if your are brave enough. On other *NIX systems, there might be multiple files, but they are placed in paths which makes sense! Or just install Gnome and the Settings menu becomes so close to OS X, that I love it. Again this is pure preference.
+
+## Installation of Applications
+PACKAGE FUCKING MANAGER. I know there are a tool on Windows called ninite, and that is all well. But I simply love Package managers on *NIX, be it apt-get, aptitude, zypper, pacman or yum. It is awesome and an easy way to install applications, and I get a descriptions of the applications I am looking for, and I can search for what packages includes and library. On Mac however, it is not standard, however I can install MacPorts, Homebrew or something else, and I get this option. This is actually one of the main reasons I use *NIX over Windows, for personal reasons.
+
+## Conclusion
+So I do not just use *NIX because I am a nerd. I use *NIX because I have made a choice about what I like, and what offers me what I need out of the box properly. There for I have chosen to use *NIX.
+
+And to the people, who will still say; You cannot game on Linux/Mac. Yes I can, I can play the games I like or use an application like wine or wineBottle. And fun fact, I actually prefer to game on Consoles, such as Xbox, PlayStation and Nintendo DS.
+
+_- Lars Nielsen_
