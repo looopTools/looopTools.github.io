@@ -9,11 +9,20 @@ __Name:__ Lars Nielsen <br />
 __Location:__ Aalborg - Denmark <br />
 __Position:__ Student Software Developer at Steinwurf Aps
 <hr />
-Hello and welcome to my website, blog and online portfolio. <br />
-I am danish student and software developer, located in Aalborg. Where I study software engineering and work as a student developer at Steinwurf.
+Hello and welcome to my little corner of the wast and weird internet. <br />
+As stated my names is Lars, and I am student and Software Developer from Denmark, currently located in Aalborg. I am a student at Aalborg University
+and is currently on the final semester of my B.Sc EE in Software. Besides my study I am also a student Software Developer at Steinwurf.
 
-I like to think a lot about subjects which can be improved with software and how to improve or solve a given problem, using software.
+## A bit more personal
+I am from 1989 and I have always lived in Denmark, with a couple of very very tiny stays (months) in Spain and the United Kingdom. I am often described
+as a first class nerd (which is not incorrect), as I enjoy logic, reasoning, math, programming, Pen and Paper RPG, board games, books and more. I am currently
+living alone in a small aparment.
 
-In my current position as student software developer, my main focus is to devlop, improve and extend software bindings and libraries.
+My lives dream is to become a published author of a fantasy series and to become a *NIX kernel developer. Though the later is starting to switch over to a more
+Network Coding based senario.
 
-Besides my study I am *NIX enthusiast and love to use different flavours of Linux, BSD, OS X and so on.
+I am an open source evangelist, though I use OS X, and have over the years contributed to different open source projects, though normally in very small batches
+at a time, exmaple projects could be Mozilla Core and Addon-SDK (also Mozilla project). I love the open source community and the possibility of giving back to
+the community.
+
+_-Lars Nielsen_
