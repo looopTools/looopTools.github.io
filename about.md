@@ -9,6 +9,11 @@ __Name:__ Lars Nielsen <br />
 __Location:__ Aalborg - Denmark <br />
 __Position:__ Student Software Developer at Steinwurf Aps
 <hr />
+
+Hello, I am Lars, student, software developer, (hopefully) author, open source evangelist and nerd.
+
+I am from Denmark and currently resides in Aalborg, where I study, work and generally nerd around. I spend my time designing, im
+
 Hello and welcome to my little corner of the wast and weird internet. <br />
 As stated my names is Lars, and I am student and Software Developer from Denmark, currently located in Aalborg. I am a student at Aalborg University
 and is currently on the final semester of my B.Sc EE in Software. Besides my study I am also a student Software Developer at Steinwurf.
