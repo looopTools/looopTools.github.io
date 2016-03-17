@@ -5,30 +5,25 @@ permalink: /about/
 ---
 
 ![Lars Profile](/assets/lars.jpg){: .profile_img}
-__Name:__ Lars Nielsen <br />
-__Location:__ Aalborg - Denmark <br />
-__Position:__ Student Software Developer at Steinwurf Aps
-<hr />
+Hello fellow internet user, I am crazy nerd from Denmark and I love to be strange in this modern day society. I am how ever a bit more than a crazy nerd, I am author (or so I like to think), a student, a software developer, food lover and I am a evangelist of open source, privacy and freedom of speech. I am also a agnostic atheist with strange if not unethical tendencies in the areas of neo-paganism.
 
-Hello, I am Lars, student, software developer, (hopefully) author, open source evangelist and nerd.
+My mind is usually a mess of ideas, random songs, pictures, colours and other fucked up things. Some might say I need a more structured mind and I kind of agree, since I am kind of unable to focus on one task for a longer period at a time. LOOK AT THE SQUIRREL.
 
-I am from Denmark and currently resides in Aalborg, where I study, work and generally nerd around. I spend my time designing, im
+Some information about what you will find on this web page might be a bit relevant. Well this web page is first and foremost a blog, where I post about nerdy stuff, food, my book projects, my software projects, causes I support, things I like to rant about and more. The second purpose of this page is for me to have an online curriculum vitae, so people can see what I actual do with my life. The third and final purpose (so far) for this web page, is for me to be able to post writing I am currently working on, to interact with readers and being able to get feedback.
 
-Hello and welcome to my little corner of the wast and weird internet. <br />
-As stated my names is Lars, and I am student and Software Developer from Denmark, currently located in Aalborg. I am a student at Aalborg University
-and is currently on the final semester of my B.Sc EE in Software. Besides my study I am also a student Software Developer at Steinwurf.
+## How to contact me
 
-## A bit more personal
-I am from 1989 and I have always lived in Denmark, with a couple of very very tiny stays (months) in Spain and the United Kingdom. I am often described
-as a first class nerd (which is not incorrect), as I enjoy logic, reasoning, math, programming, Pen and Paper RPG, board games, books and more. I am currently
-living alone in a small aparment.
+There are multiple ways to contact me! One option is of course by email, I have multiple.
 
-My lives dream is to become a published author of a fantasy series and to become a *NIX kernel developer. Though the later is starting to switch over to a more
-Network Coding based senario.
+If you want to have a private conversation with me contact me at [lars (dash) nielsen (at) tutanota.com](mailto:lars-nielsen@tutanota.com?Subject=About) or by [lnc13 (dot) lars (at) gmail (dot) com](mailto:lnc13.lars@gmail.com?Subject=About) and then use my public PGP-Key (see below) to verify the mail.
 
-I am an open source evangelist, though I use OS X, and have over the years contributed to different open source projects, though normally in very small batches
-at a time, exmaple projects could be Mozilla Core and Addon-SDK (also Mozilla project). I love the open source community and the possibility of giving back to
-the community.
+If you want a public conversation with there are two ways; Firstly [TWITTER](https://twitter.com/looopTheKing) I am freaking twitter junkie. The second option is something almost no one uses and that is [Google Plus](https://plus.google.com).
+
+I am also one Ello, LinkedIN, Facebook and more, but the above is my preferred communication platforms.
+
+YES I do have skype, however as I use it so rarely now a days, you might as well try calling me by a rock.
+
+_-Lars Nielsen_
 
 ### My PGP-key:
 
@@ -85,6 +80,3 @@ the community.
     rJdkIthcGg5EDIJVvg==
     =WkNC
     -----END PGP PUBLIC KEY BLOCK-----
-
-
-_-Lars Nielsen_
