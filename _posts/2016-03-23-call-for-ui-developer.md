@@ -21,4 +21,5 @@ Before you say yes please understand the following:
 
 _If you want a contributor agreement licenses to be signed we can do that, just so you are 100% about your rights_
 
-Please contact me at [lnc13 (dot) lars (at) gmail (dot) com](mailto:lnc13.lars@gmail.com?Subject=[IrisPause] About: Call for UI / UX designer and developer)
+Please contact me at [lnc13 (dot) lars (at) gmail (dot) com](mailto:lnc13.lars@gmail.com?Subject=[IrisPause]
+About: Call for UI / UX designer and developer)
