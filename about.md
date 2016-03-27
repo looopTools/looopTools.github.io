@@ -25,8 +25,6 @@ YES I do have skype, however as I use it so rarely now a days, you might as well
 
 _-Lars Nielsen_
 
-__TEST__
-
 ### My PGP-key:
 
 
