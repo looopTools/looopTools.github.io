@@ -1,0 +1,21 @@
+.profile_img{
+    margin-right: 10px;
+    margin-top: -10px;
+    width: 25%;
+    margin-bottom: 10px;
+    float: left;
+}
+
+#content{
+}
+
+.small-btn{
+    padding: 5px;
+}
+.pagnation_ctrl{
+    float: right;
+}
+
+.post-title{
+    font-size: 2em;
+}
