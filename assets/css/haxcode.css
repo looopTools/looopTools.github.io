@@ -19,3 +19,9 @@
 .post-title{
     font-size: 2em;
 }
+
+code.highlighter-rouge{
+    color: #FFFFFF;
+    background-color: #C0C0C0;
+    font-family: 'courier new'
+}
