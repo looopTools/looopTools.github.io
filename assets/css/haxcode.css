@@ -20,8 +20,15 @@
     font-size: 2em;
 }
 
+div.highlighter-rouge{
+    border: 1px solid #000;
+    font-family: 'courier new';
+    color: #FFFFFF;
+    background-color: #C0C0C0;
+}
+
 code.highlighter-rouge{
     color: #FFFFFF;
     background-color: #C0C0C0;
-    font-family: 'courier new'
+    font-family: 'courier new';
 }
