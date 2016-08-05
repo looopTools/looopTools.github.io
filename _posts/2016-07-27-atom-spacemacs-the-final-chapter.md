@@ -29,4 +29,4 @@ Workrave.
 I hope you will continue to follow my adventures with Atom and if it helps with
 my RSI
 
-_-Lars Nielsen_ 
+_-Lars Nielsen _
