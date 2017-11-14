@@ -18,7 +18,7 @@ permalink: /about/
 </p>
 <p>
     Lars's academic areas of interest are: Programming Language Design, Performance Analysis,
-    Parallel Programming.
+    Parallel Programming, and multi thread utilisation.
 </p>
 <p>
     Besides his studies Lars is an aspiring author, currently working on a series of novels in the fantasy

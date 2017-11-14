@@ -20,7 +20,7 @@ github_username:  looopTools
 # Build settings
 markdown: kramdown
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 paginate: 5
 
