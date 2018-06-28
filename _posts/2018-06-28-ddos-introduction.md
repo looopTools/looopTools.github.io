@@ -23,7 +23,7 @@ to achieve is to ensure that no data can be transmitted from a server serving a 
 and essentially also blocking data from being transmitted to that server, though the later
 is not the main goal.
 
-![base denial of service]({{ "/assets/images/ddos/intro/figure_1.png" | absolute_url }})
+![base denial of service]({{ "blog.h4xcode.dk/assets/images/ddos/intro/figure_1.png"}})
 
 So how can we achieve what we want? If we start by looking at the channels of the internet
 as sucking straws, only a limited amount of water molecules can run through the straw at
@@ -38,7 +38,7 @@ through and we attempt to make it our packages which goes through the channel su
 data packets does not. Thereby, we block the access to the services, as shown in figure 2. Thus
 our packets overflow the network such that "normal packets" cannot reach their destination.
 
-![base denial of service]({{ "/assets/images/ddos/intro/figure_2.png" | absolute_url }})
+![base denial of service]({{ "blog.h4xcode.dk/assets/images/ddos/intro/figure_2.png" }})
 
 This is the essence of a DOS attack and also a _distributed denial of service (dDOS)_ attack.
 
@@ -50,7 +50,7 @@ these obstacles? Well we increase our resource, we do this by utilise multiple m
 of machines locate anywhere in the world. This increase how many data packets we can "throw" at
 the server we want to deny access to, as shown in figure 3.
 
-![base denial of service]({{ "/assets/images/ddos/intro/figure_3.png" | absolute_url }})
+![base denial of service]({{ "blog.h4xcode.dk/assets/images/ddos/intro/figure_3.png"}})
 
 Thus achieving the same result as a DOS attack, just with multiple collaborating attackers. Here we see
 machines as individual attackers. Thus, assuming all our attackers have the same resources available, same
