@@ -13,4 +13,4 @@ been accepted for the IEEE GLOBECOM 2019 Workshop on Edge Computing
 for Cyber Physical Systems.
 
 Best, <br />
-_Lars Nielsen __
+_Lars Nielsen_
